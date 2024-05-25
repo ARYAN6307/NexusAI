@@ -3,7 +3,6 @@ import Image from 'next/image';
 import Section from '../Section';
 import Button from '../buton';
 import Heading from '../../landing-heroo';
-import Tagline from '../titlehead';
 import { roadmap } from '../../constants';
 import { check2, grid, loading1 } from '../../assets';
 import Gradient from '../../design/Roadmap';
