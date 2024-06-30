@@ -6,9 +6,9 @@ import { ClerkProvider } from "@clerk/nextjs";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Nexus AI",
+  title: "ImaginAI",
   description: "AI Platform",
-  icons: "/images/favicon.ico"
+  icons: "/kk.png"
 };
 
 export default function RootLayout({

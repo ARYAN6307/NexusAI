@@ -66,7 +66,7 @@ const DashboardPage = () => {
       >
       <div className="mb-8 space-y-4">
         <h2 className="text-2xl md:text-4xl font-bold text-white text-center">
-          Explore the Power of Nexus AI
+          Explore the Power of Imagin AI
         </h2>
         <p className="text-muted-foreground font-light text-small text-zinc md:text-lg text-center">
           Unleash Your Creativity

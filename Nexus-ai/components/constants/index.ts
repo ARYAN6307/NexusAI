@@ -305,13 +305,13 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "https://x.com/AryanPa81422364",
+    url: "",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "https://www.instagram.com/aryan___7_/",
+    url: "",
   },
   {
     id: "3",
@@ -323,6 +323,6 @@ export const socials = [
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "https://www.facebook.com/aryan.vyjm/",
+    url: "",
   },
 ];
